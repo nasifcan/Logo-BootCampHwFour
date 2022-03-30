@@ -1,0 +1,17 @@
+C:\Users\testinium\OneDrive\Masaüstü\NadirKorkut-HW\HomeworkFour\DataAccess.EF.Repository\bin\Debug\net5.0\DataAccess.EF.Repository.deps.json
+C:\Users\testinium\OneDrive\Masaüstü\NadirKorkut-HW\HomeworkFour\DataAccess.EF.Repository\bin\Debug\net5.0\DataAccess.EF.Repository.dll
+C:\Users\testinium\OneDrive\Masaüstü\NadirKorkut-HW\HomeworkFour\DataAccess.EF.Repository\bin\Debug\net5.0\DataAccess.EF.Repository.pdb
+C:\Users\testinium\OneDrive\Masaüstü\NadirKorkut-HW\HomeworkFour\DataAccess.EF.Repository\bin\Debug\net5.0\DataAccess.EF.dll
+C:\Users\testinium\OneDrive\Masaüstü\NadirKorkut-HW\HomeworkFour\DataAccess.EF.Repository\bin\Debug\net5.0\Domain.dll
+C:\Users\testinium\OneDrive\Masaüstü\NadirKorkut-HW\HomeworkFour\DataAccess.EF.Repository\bin\Debug\net5.0\DataAccess.EF.pdb
+C:\Users\testinium\OneDrive\Masaüstü\NadirKorkut-HW\HomeworkFour\DataAccess.EF.Repository\bin\Debug\net5.0\Domain.pdb
+C:\Users\testinium\OneDrive\Masaüstü\NadirKorkut-HW\HomeworkFour\DataAccess.EF.Repository\obj\Debug\net5.0\DataAccess.EF.Repository.csproj.AssemblyReference.cache
+C:\Users\testinium\OneDrive\Masaüstü\NadirKorkut-HW\HomeworkFour\DataAccess.EF.Repository\obj\Debug\net5.0\DataAccess.EF.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\testinium\OneDrive\Masaüstü\NadirKorkut-HW\HomeworkFour\DataAccess.EF.Repository\obj\Debug\net5.0\DataAccess.EF.Repository.AssemblyInfoInputs.cache
+C:\Users\testinium\OneDrive\Masaüstü\NadirKorkut-HW\HomeworkFour\DataAccess.EF.Repository\obj\Debug\net5.0\DataAccess.EF.Repository.AssemblyInfo.cs
+C:\Users\testinium\OneDrive\Masaüstü\NadirKorkut-HW\HomeworkFour\DataAccess.EF.Repository\obj\Debug\net5.0\DataAccess.EF.Repository.csproj.CoreCompileInputs.cache
+C:\Users\testinium\OneDrive\Masaüstü\NadirKorkut-HW\HomeworkFour\DataAccess.EF.Repository\obj\Debug\net5.0\DataAccess.EF.Repository.csproj.CopyComplete
+C:\Users\testinium\OneDrive\Masaüstü\NadirKorkut-HW\HomeworkFour\DataAccess.EF.Repository\obj\Debug\net5.0\DataAccess.EF.Repository.dll
+C:\Users\testinium\OneDrive\Masaüstü\NadirKorkut-HW\HomeworkFour\DataAccess.EF.Repository\obj\Debug\net5.0\refint\DataAccess.EF.Repository.dll
+C:\Users\testinium\OneDrive\Masaüstü\NadirKorkut-HW\HomeworkFour\DataAccess.EF.Repository\obj\Debug\net5.0\DataAccess.EF.Repository.pdb
+C:\Users\testinium\OneDrive\Masaüstü\NadirKorkut-HW\HomeworkFour\DataAccess.EF.Repository\obj\Debug\net5.0\ref\DataAccess.EF.Repository.dll

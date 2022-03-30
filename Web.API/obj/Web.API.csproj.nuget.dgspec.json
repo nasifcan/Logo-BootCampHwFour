@@ -1,0 +1,379 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Lasthief\\Desktop\\Hw4CanNasif\\HomeworkFour\\Web.API\\Web.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Lasthief\\Desktop\\Hw4CanNasif\\HomeworkFour\\Business\\Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lasthief\\Desktop\\Hw4CanNasif\\HomeworkFour\\Business\\Business.csproj",
+        "projectName": "Business",
+        "projectPath": "C:\\Users\\Lasthief\\Desktop\\Hw4CanNasif\\HomeworkFour\\Business\\Business.csproj",
+        "packagesPath": "C:\\Users\\Lasthief\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lasthief\\Desktop\\Hw4CanNasif\\HomeworkFour\\Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lasthief\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Lasthief\\Desktop\\Hw4CanNasif\\HomeworkFour\\DataAccess.EF.Repository\\DataAccess.EF.Repository.csproj": {
+                "projectPath": "C:\\Users\\Lasthief\\Desktop\\Hw4CanNasif\\HomeworkFour\\DataAccess.EF.Repository\\DataAccess.EF.Repository.csproj"
+              },
+              "C:\\Users\\Lasthief\\Desktop\\Hw4CanNasif\\HomeworkFour\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Lasthief\\Desktop\\Hw4CanNasif\\HomeworkFour\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Lasthief\\Desktop\\Hw4CanNasif\\HomeworkFour\\DataAccess.EF.Repository\\DataAccess.EF.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lasthief\\Desktop\\Hw4CanNasif\\HomeworkFour\\DataAccess.EF.Repository\\DataAccess.EF.Repository.csproj",
+        "projectName": "DataAccess.EF.Repository",
+        "projectPath": "C:\\Users\\Lasthief\\Desktop\\Hw4CanNasif\\HomeworkFour\\DataAccess.EF.Repository\\DataAccess.EF.Repository.csproj",
+        "packagesPath": "C:\\Users\\Lasthief\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lasthief\\Desktop\\Hw4CanNasif\\HomeworkFour\\DataAccess.EF.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lasthief\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Lasthief\\Desktop\\Hw4CanNasif\\HomeworkFour\\DataAccess\\DataAccess.EF.csproj": {
+                "projectPath": "C:\\Users\\Lasthief\\Desktop\\Hw4CanNasif\\HomeworkFour\\DataAccess\\DataAccess.EF.csproj"
+              },
+              "C:\\Users\\Lasthief\\Desktop\\Hw4CanNasif\\HomeworkFour\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Lasthief\\Desktop\\Hw4CanNasif\\HomeworkFour\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.15, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Lasthief\\Desktop\\Hw4CanNasif\\HomeworkFour\\DataAccess\\DataAccess.EF.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lasthief\\Desktop\\Hw4CanNasif\\HomeworkFour\\DataAccess\\DataAccess.EF.csproj",
+        "projectName": "DataAccess.EF",
+        "projectPath": "C:\\Users\\Lasthief\\Desktop\\Hw4CanNasif\\HomeworkFour\\DataAccess\\DataAccess.EF.csproj",
+        "packagesPath": "C:\\Users\\Lasthief\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lasthief\\Desktop\\Hw4CanNasif\\HomeworkFour\\DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lasthief\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Lasthief\\Desktop\\Hw4CanNasif\\HomeworkFour\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Lasthief\\Desktop\\Hw4CanNasif\\HomeworkFour\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.15, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Lasthief\\Desktop\\Hw4CanNasif\\HomeworkFour\\Domain\\Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lasthief\\Desktop\\Hw4CanNasif\\HomeworkFour\\Domain\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "C:\\Users\\Lasthief\\Desktop\\Hw4CanNasif\\HomeworkFour\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\Lasthief\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lasthief\\Desktop\\Hw4CanNasif\\HomeworkFour\\Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lasthief\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Lasthief\\Desktop\\Hw4CanNasif\\HomeworkFour\\Web.API\\Web.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lasthief\\Desktop\\Hw4CanNasif\\HomeworkFour\\Web.API\\Web.API.csproj",
+        "projectName": "Web.API",
+        "projectPath": "C:\\Users\\Lasthief\\Desktop\\Hw4CanNasif\\HomeworkFour\\Web.API\\Web.API.csproj",
+        "packagesPath": "C:\\Users\\Lasthief\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lasthief\\Desktop\\Hw4CanNasif\\HomeworkFour\\Web.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lasthief\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Lasthief\\Desktop\\Hw4CanNasif\\HomeworkFour\\Business\\Business.csproj": {
+                "projectPath": "C:\\Users\\Lasthief\\Desktop\\Hw4CanNasif\\HomeworkFour\\Business\\Business.csproj"
+              },
+              "C:\\Users\\Lasthief\\Desktop\\Hw4CanNasif\\HomeworkFour\\DataAccess.EF.Repository\\DataAccess.EF.Repository.csproj": {
+                "projectPath": "C:\\Users\\Lasthief\\Desktop\\Hw4CanNasif\\HomeworkFour\\DataAccess.EF.Repository\\DataAccess.EF.Repository.csproj"
+              },
+              "C:\\Users\\Lasthief\\Desktop\\Hw4CanNasif\\HomeworkFour\\DataAccess\\DataAccess.EF.csproj": {
+                "projectPath": "C:\\Users\\Lasthief\\Desktop\\Hw4CanNasif\\HomeworkFour\\DataAccess\\DataAccess.EF.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.23, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.15, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.16.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
